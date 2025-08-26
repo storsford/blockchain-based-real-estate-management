@@ -1,1 +1,3 @@
 # blockchain-based-real-estate-management
+
+This project is a Blockchain-Based Land Management and Registration System that enables Buyers, Sellers, Agents, and Admins to interact with property listings, valuations, appointments, and ownership transfers securely using blockchain technology. The system ensures immutable records of all property transactions, enhancing transparency and trust. Developed using Agile practices, Trello was used for backlog and sprint management, and GitHub for version control with branching and pull requests. UML diagrams and test cases are included to illustrate system workflows and validate requirements.
